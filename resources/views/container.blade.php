@@ -1,12 +1,9 @@
 <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
 	<div class="row justify-content-center">
 		<div class="col-xl-7 col-lg-9 text-center">
-			<h1>One Page Bootstrap Website Template</h1>
-			<h2>We are team of talented designers</h2>
+			<h1>Pusat Perencaan Kebutuhan ASN</h1>
+			<h2>BADAN KEPEGAWAIAN NEGARA</h2>
 		</div>
-	</div>
-	<div class="text-center">
-		<a href="#about" class="btn-get-started scrollto">Get Started</a>
 	</div>
 
 	<div class="row icon-boxes">
