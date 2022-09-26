@@ -3,27 +3,23 @@
 	<div class="row">
 
 		<div class="col-lg-6 video-box align-self-baseline" data-aos="fade-right" data-aos-delay="100">
-			<img src="assets/img/about-video.jpg" class="img-fluid" alt="">
+			<img src="{{asset('bkn/pusrent.png')}}" class="img-fluid" alt="">
 			<a href="https://www.youtube.com/watch?v=W2rvMR61MXk&t=7s" class="glightbox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
 		</div>
 
 		<div class="col-lg-6 pt-3 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
-			<h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
-			<p class="fst-italic">
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-				magna aliqua.
-			</p>
+			<h3>
+				Dalam melaksanakan tugas sebagaimana yang dimaksud dalam PERBKN No 29 Tahun 2020 Pasal 142,
+				Pusat Perencanaan Kebutuhan ASN menyelenggarakan fungsi:
+			</h3>
 			<ul>
-				<li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
-				<li><i class="bx bx-check-double"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
-				<li><i class="bx bx-check-double"></i> Voluptate repellendus pariatur reprehenderit corporis sint.</li>
-				<li><i class="bx bx-check-double"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate trideta storacalaperda mastiro dolore eu fugiat nulla pariatur.</li>
+				<li><i class="bx bx-check-double"></i> Koordinasi pelaksanaan pengelolaan data dan evaluasi kebutuhan ASN</li>
+				<li><i class="bx bx-check-double"></i> Koordinasi penyusunan analisis kebutuhan ASN</li>
+				<li><i class="bx bx-check-double"></i> Koordinasi penyusunan bahan pertimbangan teknis kebutuhan ASN</li>
+				<li><i class="bx bx-check-double"></i> Fasilitasi pelaksanaan perencanaan penyusunan kebutuhan dan penyusunan pertimbangan teknis kebutuhan</li>
+				<li><i class="bx bx-check-double"></i> Pemantauan dan evaluasi pengelolaan data, dan kebijakan analisis kebutuhan, serta pertimbangan teknis kebutuhan ASN</li>
+				<li><i class="bx bx-check-double"></i> Pelaksanaan pelayanan administrasi Pusat</li>
 			</ul>
-			<p>
-				Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-				velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-				culpa qui officia deserunt mollit anim id est laborum
-			</p>
 		</div>
 
 	</div>

@@ -8,21 +8,24 @@
 		<div class="row content">
 			<div class="col-lg-6">
 				<p>
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-					magna aliqua.
+					Pusat Perencanaan Kebutuhan Aparatur Sipil Negara adalah unsur pendukung pelaksanaan 
+					tugas dan fungsi BKN yang berada <b style="color:#2487ce;">di bawah</b> dan <b style="color:#2487ce;">bertanggung jawah</b> kepada 
+					Kepala BKN melalui <b style="color:#2487ce;">Sekretaris Utama</b>
 				</p>
-				<ul>
-					<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-					<li><i class="ri-check-double-line"></i> Duis aute irure dolor in reprehenderit in voluptate velit</li>
-					<li><i class="ri-check-double-line"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat</li>
-				</ul>
+				<p>
+					Pusat Perencanaan Kebutuhan Aparatur Sipil Negara dipimpin oleh Kepala Pusat
+				</p>
 			</div>
 			<div class="col-lg-6 pt-4 pt-lg-0">
 				<p>
-					Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-					velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-					culpa qui officia deserunt mollit anim id est laborum.
+					Pusat Perencanaan Kebutuhan Aparatur Sipil Negara mempunyai tugas melaksanakan penyusunan perencanaan 
+					kebutuhan Aparatur Sipil Negara yang meliputi
 				</p>
+				<ul>
+					<li><i class="ri-check-double-line"></i> Pengelolaan data kebutuhan</li>
+					<li><i class="ri-check-double-line"></i> analisis kebutuhan</li>
+					<li><i class="ri-check-double-line"></i> pertimbangan teknis kebutuhan Aparatur Sipil Negara</li>
+				</ul>
 				<a href="#" class="btn-learn-more">Learn More</a>
 			</div>
 		</div>
