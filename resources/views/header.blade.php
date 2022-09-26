@@ -11,6 +11,11 @@
           <li><a class="nav-link scrollto" href="#about">Profil</a></li>
           <li><a class="nav-link scrollto" href="#services">Layanan</a></li>
           <li><a class="nav-link scrollto o" href="#portfolio">Kegiatan</a></li>
+					<li class="dropdown"><a href="#"><span>Regulasi</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="https://jdih.bkn.go.id/">JDIH BKN</a></li>
+            </ul>
+          </li>
           <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
