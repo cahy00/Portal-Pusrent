@@ -11,7 +11,7 @@
 			<div class="icon-box">
 				<div class="icon"><i class="ri-stack-line"></i></div>
 				<h4 class="title"><a href="">Pengelolaan Data</a></h4>
-				<p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+				<p class="description">Koordinasi Pelaksanaan pengelolaan data & evaluasi kebutuhan Aparatur Sipil Negara</p>
 			</div>
 		</div>
 
@@ -19,23 +19,23 @@
 			<div class="icon-box">
 				<div class="icon"><i class="ri-printer-line"></i></div>
 				<h4 class="title"><a href="">Analisis Kebutuhan</a></h4>
-				<p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+				<p class="description">Koordinasi Penyusunan analisis kebutuhan Aparatur Sipil Negara</p>
 			</div>
 		</div>
 
 		<div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="400">
 			<div class="icon-box">
 				<div class="icon"><i class="ri-album-line"></i></div>
-				<h4 class="title"><a href="">Verifikasi & Validasi</a></h4>
-				<p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+				<h4 class="title"><a href="">Pertimbangan Teknis</a></h4>
+				<p class="description">Koordinasi penyusunan bahan pertimbangan teknis kebutuhan Aparatur Sipil Negara</p>
 			</div>
 		</div>
 
 		<div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="500">
 			<div class="icon-box">
 				<div class="icon"><i class="ri-scan-line"></i></div>
-				<h4 class="title"><a href="">Pertimbangan Teknis</a></h4>
-				<p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+				<h4 class="title"><a href="">Pemantauan & Evaluasi</a></h4>
+				<p class="description">pemantauan & evaluasi pengelolaan data, kebijakan analisis kebutuhan, dan pertimbangan teknis</p>
 			</div>
 		</div>
 

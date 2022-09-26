@@ -1,8 +1,8 @@
 <div class="container" data-aos="fade-up">
 
 		<div class="section-title">
-			<h2>About Us</h2>
-			<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. </p>
+			<h2>Profil Unit</h2>
+			<p>Tugas & Fungsi Pusat Perencanaan Kebutuhan Aparatur Sipil Negara </p>
 		</div>
 
 		<div class="row content">
