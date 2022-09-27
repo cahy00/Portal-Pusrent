@@ -1,7 +1,10 @@
 @extends('home')
 
 @section('main')
-		
+
+		<section id="hero" class="d-flex align-items-center">
+			@include('container')
+		</section>
 
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -18,10 +21,6 @@
 			@include('services')
     </section><!-- End Sevices Section -->
 
-    <!-- ======= Portfolio Section ======= -->
-    <section id="portfolio" class="portfolio">
-      @include('portfolio')
-    </section><!-- End Portfolio Section -->
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">

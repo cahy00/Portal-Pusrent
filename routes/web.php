@@ -22,5 +22,9 @@ Route::get('/', function () {
 });
 
 Route::get('/anjab', function () {
-	return view('service.anjab');
+	return view('layouts.anjab');
+});
+
+Route::get('/portfolio', function(){
+	return view('portfolio');
 });

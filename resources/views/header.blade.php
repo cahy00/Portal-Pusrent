@@ -16,6 +16,8 @@
               <li><a href="https://jdih.bkn.go.id/">JDIH BKN</a></li>
             </ul>
           </li>
+          <li><a class="nav-link scrollto o" href="/portfolio">Galeri</a></li>
+					
           <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>
           <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
