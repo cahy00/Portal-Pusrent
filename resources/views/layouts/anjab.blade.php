@@ -95,19 +95,19 @@
 										</div>
 										<div class="modal-body">
 											<p style="text-align:justify">
-												Nama Jabatan atau Nomenklatur Jabatan Pasal 4 huruf a dirumuskan berdasarkan
-												tindak kerja, bahan kerja, perangkat kerja, dan hasil kerja
+												Nama Jabatan atau Nomenklatur Jabatan dirumuskan berdasarkan
+												tindak kerja, <br> bahan kerja, <br>perangkat kerja, dan <br> hasil kerja
 												yang mencerminkan tugas yang dilakukan serta
 												disesuaikan dengan tugas dan fungsi unit kerja. Dengan Ketentuan sebagai berikut
 												<br>
 												a. untuk JPT , JA , dan JF disesuaikan dengan
-												nomenklatur J abatan dalam struktur organisasi dan
-												tata kerja I nstansi Pemerintah yang bersangkutan <br>
-												b. untuk JF disesuaikan dengan nomenklatur J abatan
+												nomenklatur abatan dalam struktur organisasi dan
+												tata kerja Instansi Pemerintah yang bersangkutan <br>
+												b. untuk JF disesuaikan dengan nomenklatur Jabatan
 												yang ditetapkan dalam peraturan yang mengatur
 												mengenai penetapan JF ; dan <br>
 												c. untuk Jabatan pelaksana disesuaikan dengan
-												nomenklatur J abatan yang ditetapkan dalam
+												nomenklatur Jabatan yang ditetapkan dalam
 												peraturan Menteri yang mengatur mengenai
 												penetapan nomenklatur Jabatan pelaksana
 											</p>
@@ -165,9 +165,18 @@
               <div class="tab-pane" id="tab-2">
                 <div class="row gy-4">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Et blanditiis nemo veritatis excepturi</h3>
-                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
+                    <h3>Ikhtisar Jabatan</h3>
+                    <p class="fst-italic">Ikhtisar Jabatan merupakan ringkasan dari tugas yang
+											dilakukan Pemangku Jabatan, yang tersusun dalam satu
+											kalimat yang mencerminkan pokok
+											tugas Jabatan.
+										</p>
+                    <p>
+											Penyusunan ikhtisar Jabatan harus memenuhi kriteria: <br>
+											a. apa yang dikerjakan; <br> 
+											b. bagaimana cara mengerjakan; dan <br>
+											c. mengapa tugas tersebut harus dikerjakan. <br>
+										</p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
@@ -177,15 +186,99 @@
               <div class="tab-pane" id="tab-3">
                 <div class="row gy-4">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
-                    <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
-                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
-                  </div>
+                    <h3>Kualifikasi Jabatan</h3>
+                    <p class="fst-italic">
+											Kualifikasi Jabatan merupakan kualifikasi minimal yang harus
+											dimiliki Pemangku Jabatan sesuai dengan tugas dan fungsi
+											Jabatan yang terdiri atas:
+										</p>
+										<p>
+											<ul class=" nav nav-tabs flex-column">
+												<li class="nav-item">
+													<a class="nav-link" data-bs-toggle="modal" data-bs-target="#kualjab1" style="cursor: pointer">Pendidikan</a>
+												</li>
+												<li class="nav-item">
+													<a class="nav-link" data-bs-toggle="modal" data-bs-target="#kualjab2" style="cursor: pointer">Pelatihan</a>
+												</li>
+												<li class="nav-item">
+													<a class="nav-link" data-bs-toggle="modal" data-bs-target="#kualjab3" style="cursor: pointer">Pengalaman</a>
+												</li>
+											</ul>
+										</p>
+									</div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
+
+							<div class="modal fade" id="kualjab1" tabindex="-1" aria-labelledby="kualjab-1" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-scrollable">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title bold" id="kualjab-1">Pendidikan</h5>
+											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+										</div>
+										<div class="modal-body">
+											<p style="text-align:justify">
+												Pendidikan merupakan pendidikan formal minimal yang harus dimiliki
+												Pemangku Jabatan untuk menduduki suatu Jabatan disertai
+												dengan jurusan yang sesuai dengan kebutuhan Jabatan.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="modal fade" id="kualjab2" tabindex="-1" aria-labelledby="kualjab-2" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-scrollable">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title bold" id="kualjab-2">Pelatihan</h5>
+											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+										</div>
+										<div class="modal-body">
+											<p style="text-align:justify">
+												Pelatihan merupakan pelatihan yang dibutuhkan Pemangku
+												Jabatan untuk meningkatkan kemampuan dan
+												menunjang pelaksanaan tugas Jabatan. <br>
+												Pelatihan yang dimaksud adalah <br>
+												a. pelatihan kepemimpinan ; <br>
+												b. pelatihan fungsional dan/ atau <br>
+												c. pelatihan teknis. <br>
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="modal fade" id="kualjab3" tabindex="-1" aria-labelledby="kualjab-3" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-scrollable">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title bold" id="kualjab-3">Pengalaman</h5>
+											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+										</div>
+										<div class="modal-body">
+											<p style="text-align:justify">
+												merupakan pengalaman kerja Pemangku Jabatan pada bidang
+												tertentu yang linier dan/atau berkaitan dengan tugas Jabatan.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
               <div class="tab-pane" id="tab-4">
                 <div class="row gy-4">
                   <div class="col-lg-8 details order-2 order-lg-1">
