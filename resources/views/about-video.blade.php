@@ -9,7 +9,7 @@
 
 		<div class="col-lg-6 pt-3 pt-lg-0 content" data-aos="fade-left" data-aos-delay="100">
 			<h3>
-				Dalam melaksanakan tugas sebagaimana yang dimaksud dalam PERBKN No 29 Tahun 2020 Pasal 142,
+				Dalam melaksanakan tugas sebagaimana yang dimaksud dalam PERATURAN BKN No 29 Tahun 2020 Pasal 142,
 				Pusat Perencanaan Kebutuhan ASN menyelenggarakan fungsi:
 			</h3>
 			<ul>
