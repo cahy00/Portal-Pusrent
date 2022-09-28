@@ -32,6 +32,36 @@
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Hasil Kerja</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Bahan Kerja</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Perangkat Kerja</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Tanggung Jawab</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Wewenang</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Korelasi Jabatan</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Kondisi Lingkungan Kerja</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Resiko Bahaya</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">SYarat Jabatan</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Prestasi Kerja</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Kelas Jabatan</a>
+              </li>
             </ul>
           </div>
           <div class="col-lg-9">
@@ -118,8 +148,11 @@
 										</div>
 										<div class="modal-body">
 											<p style="text-align:justify">
-												Kode Jabatan dibuat sesuai dengan ketentuan peraturan perundang
-												undangan.
+												Unit kerja sebagaimana dimaksud 
+												menunjukkan kedudukan Jabatan yang akan dianalisis mulai
+												dari unit kerja yang paling tinggi sampai dengan unit kerja
+												atasan langsung Jabatan yang akan dianalisis dalam struktur
+												organisasi.
 											</p>
 										</div>
 										<div class="modal-footer">
