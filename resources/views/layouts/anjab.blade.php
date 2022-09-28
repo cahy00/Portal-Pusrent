@@ -46,21 +46,21 @@
 												<a class="nav-link" data-bs-toggle="modal" data-bs-target="#subtab1" style="cursor: pointer">Nama Jabatan atau Nomenklatur Jabatan</a>
 											</li>
 											<li class="nav-item">
-												<a class="nav-link" data-bs-toggle="tab" href="#subtab2">Kode Jabatan</a>
+												<a class="nav-link" data-bs-toggle="modal" data-bs-target="#subtab2" style="cursor: pointer">Kode Jabatan</a>
 											</li>
 											<li class="nav-item">
-												<a class="nav-link" data-bs-toggle="tab" href="#subtab-2">Unit Kerja</a>
+												<a class="nav-link" data-bs-toggle="modal" data-bs-target="#subtab3" style="cursor: pointer">Unit Kerja</a>
 											</li>
 										</ul>
 									</div>
                 </div>
               </div>
 
-							<div class="modal fade" id="subtab1" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+							<div class="modal fade" id="subtab1" tabindex="-1" aria-labelledby="subtab-1" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-scrollable">
 									<div class="modal-content">
 										<div class="modal-header">
-											<h5 class="modal-title bold" id="exampleModalLabel">Nama Jabatan</h5>
+											<h5 class="modal-title bold" id="subtab-1">Nama Jabatan</h5>
 											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 										</div>
 										<div class="modal-body">
@@ -89,11 +89,11 @@
 								</div>
 							</div>
 
-							<div class="modal fade" id="subtab2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+							<div class="modal fade" id="subtab2" tabindex="-1" aria-labelledby="subtab-2" aria-hidden="true">
 								<div class="modal-dialog modal-dialog-scrollable">
 									<div class="modal-content">
 										<div class="modal-header">
-											<h5 class="modal-title bold" id="exampleModalLabel">Kode Jabatan</h5>
+											<h5 class="modal-title bold" id="subtab-2">Kode Jabatan</h5>
 											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 										</div>
 										<div class="modal-body">
@@ -109,6 +109,25 @@
 								</div>
 							</div>
 
+							<div class="modal fade" id="subtab3" tabindex="-1" aria-labelledby="subtab-3" aria-hidden="true">
+								<div class="modal-dialog modal-dialog-scrollable">
+									<div class="modal-content">
+										<div class="modal-header">
+											<h5 class="modal-title bold" id="subtab-3">Unit Kerja</h5>
+											<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+										</div>
+										<div class="modal-body">
+											<p style="text-align:justify">
+												Kode Jabatan dibuat sesuai dengan ketentuan peraturan perundang
+												undangan.
+											</p>
+										</div>
+										<div class="modal-footer">
+											<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+										</div>
+									</div>
+								</div>
+							</div>
 
               <div class="tab-pane" id="tab-2">
                 <div class="row gy-4">
