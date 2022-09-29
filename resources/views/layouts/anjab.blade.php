@@ -32,36 +32,6 @@
               <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Hasil Kerja</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Bahan Kerja</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Perangkat Kerja</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Tanggung Jawab</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Wewenang</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Korelasi Jabatan</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Kondisi Lingkungan Kerja</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Resiko Bahaya</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">SYarat Jabatan</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Prestasi Kerja</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Kelas Jabatan</a>
-              </li>
             </ul>
           </div>
           <div class="col-lg-9">
@@ -282,10 +252,37 @@
               <div class="tab-pane" id="tab-4">
                 <div class="row gy-4">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
-                    <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
-                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
-                  </div>
+                    <h3>Tugas Pokok</h3>
+                    <p class="fst-italic" style="text-align: justify">Tugas pokok uf d merupakan papar an atau uraian atas semua
+											tugas Jabatan yang harus dilakukan oleh Pemangku
+											Jabatan dalam memproses bahan kerja menjadi hasil kerja
+											atau output dengan menggunakan peralatan kerja atau
+											sarana prasarana sesuai dengan ketentuan peraturan
+											perundang undangan. <br>
+											Penyusunan tugas pokok sebagaimana dimaksud mengikuti kaidah sebagai berikut
+										</p>
+											<p>
+												a. tersusun dalam susunan kalimat yang memuat apa
+												yang dikerjakan, bagaimana cara mengerjakan, dan
+												mengapa tugas tersebut harus dikerjakan <br>
+												b. tugas JF disesuaikan dengan butir kegiatan JF , tugas
+												dan/atau fungsi unit organisasi tempat JF tersebut
+												bertugas <br>
+												c. tugas Jabatan pelaksana terdiri dari tugas teknis
+												sebagai turunan dari tugas teknis atasan
+												langsungnya <br>
+												d. tugas JPT , Jabatan administrator , dan Jabatan
+												p engawas terdiri atas tugas manajerial dan tugas
+												teknis <br>
+												e. penyusunan tugas manajerial menggambarkan
+												perencanaan, pengorganisasian, dan pengawasan ;
+												dan <br>
+												f. penyusunan tugas teknis menggambarkan distribusi
+												peran dari Jabatan yang paling tinggi sampai dengan
+												Jabatan yang paling rendah dalam satu unit
+												organisasi.
+											</p>
+										</div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
                   </div>
@@ -294,10 +291,12 @@
               <div class="tab-pane" id="tab-5">
                 <div class="row gy-4">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
-                    <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
-                  </div>
+                    <h3>Hasil Kerja</h3>
+                    <p class="fst-italic" style="text-align: justify">Hasil kerja sebagaimana dimaksud merupakan suatu keluaran atau output dari
+											pelaksanaan tugas Jabatan yang dapat diukur atau
+											dihitung berdasarkan bukti fisik kegiatan. Satuan hasil kerja dapat 
+											berupa dokumen, data, laporan, dan/atau surat.</p>
+                    </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/departments-5.jpg" alt="" class="img-fluid">
                   </div>
