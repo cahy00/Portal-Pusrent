@@ -32,7 +32,7 @@
 				</svg>
 				<i class="bx bx-file"></i>
 			</div>
-			<h4><a href="">Penyusunan Analisis Beban Kerja</a></h4>
+			<h4><a href="/abk">Penyusunan Analisis Beban Kerja</a></h4>
 			<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
 		</div>
 	</div>
