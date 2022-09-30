@@ -56,7 +56,7 @@
 									<div class="row gy-4">
 										<div class="col-lg-12 details order-2 order-lg-1">
 											<h3>Hasil Kerja</h3>
-											<p class="fst-italic" style="text-align: justify">Analisis Beban Kerja dengan menggunakan pendekatan hasil
+											<p class="fst-italic m-2" style="text-align: justify">Analisis Beban Kerja dengan menggunakan pendekatan hasil
 												kerja dilakukan untuk jabatan yang produk atau output jabatannya
 												satu jenis dan sifat dari produk yang dihasilkannya dapat
 												diukur. Dalam mengunakan pendekatan hasil kerja, informasi yang diperlukan adalah sebagai 
@@ -71,7 +71,7 @@
 															<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 														</div>
 														<div class="modal-body">
-															<p>
+															<p style="text-align: justify">
 																a. hasil kerja dan satuannya; <br>
 																b. jumlah beban kerja yang tercermin dari target hasil kerja
 																yang harus dicapai; dan <br>
@@ -97,14 +97,47 @@
 								</div>
 								<div class="tab-pane" id="tab-2">
 									<div class="row gy-4">
-										<div class="col-lg-8 details order-2 order-lg-1">
-											<h3>Et blanditiis nemo veritatis excepturi</h3>
-											<p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-											<p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
-										</div>
-										<div class="col-lg-4 text-center order-1 order-lg-2">
-											<img src="assets/img/departments-2.jpg" alt="" class="img-fluid">
-										</div>
+										<div class="col-lg-12 details order-2 order-lg-1">
+											<h3>Objek Kerja</h3>
+											<p class="fst-italic m-4">
+												Analisis Beban Kerja dengan menggunakan pendekatan
+												objek kerja ayat merupakan
+												beban kerja yang dapat berupa orang atau wilayah.
+												Dalam mengunakan pendekatan objek kerja, informasi yang diperlukan adalah sebagai 
+												<a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#subtab2" style="cursor: pointer">berikut</a>
+											</p>
+											</div>
+											
+											<div class="modal fade" id="subtab2" tabindex="-1" aria-labelledby="subtab-2" aria-hidden="true">
+												<div class="modal-dialog modal-dialog-scrollable">
+													<div class="modal-content">
+														<div class="modal-header">
+															<h5 class="modal-title bold" id="subtab-2">Informasi yang diperlukan</h5>
+															<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+														</div>
+														<div class="modal-body">
+															<p style="text-align: justify">
+																a. objek dan satuan kerja <br>
+																b. jumlah beban kerja yang tercermin dari banyaknya
+																objek yang harus dilayani; dan <br>
+																c. standar kemampuan rata rata pegawai untuk
+																melayani objek kerja yang telah ditetapkan
+																sebelumnya. <br>
+															</p>
+															<br>
+															<p style="text-align: justify">
+																Rumus penghitungan jumlah kebutuhan pegawai dengan
+																pendekatan objek kerja 
+																yaitu jumlah objek kerja dibagi dengan standar kemampuan
+																rata rata pegawai
+															</p>
+														</div>
+														<div class="modal-footer">
+															<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+														</div>
+													</div>
+												</div>
+											</div>
 									</div>
 								</div>
 								<div class="tab-pane" id="tab-3">
