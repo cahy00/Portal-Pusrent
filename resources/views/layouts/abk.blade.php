@@ -54,17 +54,45 @@
 							<div class="tab-content">
 								<div class="tab-pane active show" id="tab-1">
 									<div class="row gy-4">
-										<div class="col-lg-8 details order-2 order-lg-1">
+										<div class="col-lg-12 details order-2 order-lg-1">
 											<h3>Hasil Kerja</h3>
 											<p class="fst-italic" style="text-align: justify">Analisis Beban Kerja dengan menggunakan pendekatan hasil
 												kerja dilakukan untuk jabatan yang produk atau output jabatannya
 												satu jenis dan sifat dari produk yang dihasilkannya dapat
 												diukur. Dalam mengunakan pendekatan hasil kerja, informasi yang diperlukan adalah sebagai 
-												<a href="" class="btn btn-primary">berikut</a></p>
+												<a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#subtab1" style="cursor: pointer">berikut</a></p>
 											</div>
-										<div class="col-lg-4 text-center order-1 order-lg-2">
-											<img src="assets/img/departments-1.jpg" alt="" class="img-fluid">
-										</div>
+
+											<div class="modal fade" id="subtab1" tabindex="-1" aria-labelledby="subtab-1" aria-hidden="true">
+												<div class="modal-dialog modal-dialog-scrollable">
+													<div class="modal-content">
+														<div class="modal-header">
+															<h5 class="modal-title bold" id="subtab-1">Informasi yang diperlukan</h5>
+															<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+														</div>
+														<div class="modal-body">
+															<p>
+																a. hasil kerja dan satuannya; <br>
+																b. jumlah beban kerja yang tercermin dari target hasil kerja
+																yang harus dicapai; dan <br>
+																c. standar kemampuan rata rata pegawai dalam Jabatan
+																yang sama untuk memperoleh hasil kerja. <br>
+															</p>
+															<br>
+															<p style="text-align: justify">
+																Rumus penghitungan jumlah kebutuhan pegawai dengan
+																pendekatan hasil kerja
+																adalah jumlah beban kerja dibagi dengan standar kemampuan
+																rata rata.
+															</p>
+														</div>
+														<div class="modal-footer">
+															<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
+														</div>
+													</div>
+												</div>
+											</div>
+										
 									</div>
 								</div>
 								<div class="tab-pane" id="tab-2">
