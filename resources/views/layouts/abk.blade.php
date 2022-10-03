@@ -364,10 +364,11 @@
 										dan waktu penyelesaian setiap uraian tugas</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-3">Peralatan Kerja</a>
+									<a class="nav-link" data-bs-toggle="tab" href="#tab-3">Pengolahan Data</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-4">Tugas per tugas Jabatan</a>
+									<a class="nav-link" data-bs-toggle="tab" href="#tab-4">verifikasi dan validasi hasil penghitungan kebutuhan
+										pegawai.</a>
 								</li>
 							</ul>
 						</div>
