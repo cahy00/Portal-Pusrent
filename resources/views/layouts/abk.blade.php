@@ -197,9 +197,6 @@
 						<div class="col-lg-3">
 							<ul class="nav nav-tabs flex-column" style="text-align: left">
 								<li class="nav-item">
-									<a class="nav-link active show" data-bs-toggle="tab" href="#tabaspek-1">Uraian Tugas</a>
-								</li>
-								<li class="nav-item">
 									<a class="nav-link" data-bs-toggle="tab" href="#tabaspek-2">Volume Kerja</a>
 								</li>
 								<li class="nav-item">
@@ -212,138 +209,84 @@
 						</div>
 						<div class="col-lg-9">
 							<div class="tab-content">
-								<div class="tab-pane active show" id="tabaspek-1">
+								<div class="tab-pane active show" id="tabaspek-2">
 									<div class="row gy-4">
 										<div class="col-lg-12 details order-2 order-lg-1">
-											<h3>Hasil Kerja</h3>
-											<p class="fst-italic m-2" style="text-align: justify">Analisis Beban Kerja dengan menggunakan pendekatan hasil
-												kerja dilakukan untuk jabatan yang produk atau output jabatannya
-												satu jenis dan sifat dari produk yang dihasilkannya dapat
-												diukur. Dalam mengunakan pendekatan hasil kerja, informasi yang diperlukan adalah sebagai 
-												<a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#subtab1" style="cursor: pointer">berikut</a></p>
-											</div>
-
-											<div class="modal fade" id="subtab1" tabindex="-1" aria-labelledby="subtab-1" aria-hidden="true">
-												<div class="modal-dialog modal-dialog-scrollable">
-													<div class="modal-content">
-														<div class="modal-header">
-															<h5 class="modal-title bold" id="subtab-1">Informasi yang diperlukan</h5>
-															<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-														</div>
-														<div class="modal-body">
-															<p style="text-align: justify">
-																a. hasil kerja dan satuannya; <br>
-																b. jumlah beban kerja yang tercermin dari target hasil kerja
-																yang harus dicapai; dan <br>
-																c. standar kemampuan rata rata pegawai dalam Jabatan
-																yang sama untuk memperoleh hasil kerja. <br>
-															</p>
-															<br>
-															<p style="text-align: justify">
-																Rumus penghitungan jumlah kebutuhan pegawai dengan
-																pendekatan hasil kerja
-																adalah jumlah beban kerja dibagi dengan standar kemampuan
-																rata rata.
-															</p>
-														</div>
-														<div class="modal-footer">
-															<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
-														</div>
-													</div>
-												</div>
-											</div>
-										
-									</div>
-								</div>
-								<div class="tab-pane" id="tabaspek-2">
-									<div class="row gy-4">
-										<div class="col-lg-12 details order-2 order-lg-1">
-											<h3>Objek Kerja</h3>
-											<p class="fst-italic m-4">
-												Analisis Beban Kerja dengan menggunakan pendekatan
-												objek kerja ayat merupakan
-												beban kerja yang dapat berupa orang atau wilayah.
-												Dalam mengunakan pendekatan objek kerja, informasi yang diperlukan adalah sebagai 
-												<a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#subtab2" style="cursor: pointer">berikut</a>
-											</p>
-											</div>
-											
-											<div class="modal fade" id="subtab2" tabindex="-1" aria-labelledby="subtab-2" aria-hidden="true">
-												<div class="modal-dialog modal-dialog-scrollable">
-													<div class="modal-content">
-														<div class="modal-header">
-															<h5 class="modal-title bold" id="subtab-2">Informasi yang diperlukan</h5>
-															<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-														</div>
-														<div class="modal-body">
-															<p style="text-align: justify">
-																a. objek dan satuan kerja <br>
-																b. jumlah beban kerja yang tercermin dari banyaknya
-																objek yang harus dilayani; dan <br>
-																c. standar kemampuan rata rata pegawai untuk
-																melayani objek kerja yang telah ditetapkan
-																sebelumnya. <br>
-															</p>
-															<br>
-															<p style="text-align: justify">
-																Rumus penghitungan jumlah kebutuhan pegawai dengan
-																pendekatan objek kerja 
-																yaitu jumlah objek kerja dibagi dengan standar kemampuan
-																rata rata pegawai
-															</p>
-														</div>
-														<div class="modal-footer">
-															<button type="button" class="btn btn-primary" data-bs-dismiss="modal">Ok</button>
-														</div>
-													</div>
-												</div>
+											<h3>Volume Kerja</h3>
+											<p class="fst-italic m-2" style="text-align: justify">
+												Volume kerja atau beban kerja diperoleh dari target
+												pekerjaan yang harus dilakukan untuk memperoleh hasil
+												kerja atau produk kerja suatu tugas tertentu dalam satu
+												tahun. <br>
+												Volume kerja atau beban kerja merupakan variabel tidak tetap dalam
+												pelaksanaan Analisis Beban Kerja <br>
+												Volume kerja atau beban kerja dapat dihitung berdasarkan: <br>
+												a. hasil kerja; <br>
+												b. objek kerja; <br>
+												c. alat kerja; atau <br>
+												d. tugas yang harus diselesaikan. <br>
 											</div>
 									</div>
 								</div>
 								<div class="tab-pane" id="tabaspek-3">
 									<div class="row gy-4">
-										<div class="col-lg-8 details order-2 order-lg-1">
-											<h3>Peralatan Kerja</h3>
-											<p class="fst-italic m-4" style="text-align: justify">
-												Analisis Beban Kerja dengan menggunakan pendekatan
-												peralatan kerja dilaksanakan untuk Jabatan yang pekerjaannya
-												bergantung pada alat kerja yang tersedia. <br>
-												Dalam menggunakan pendekatan peralatan kerja
-												sebagaimana dimaksud, informasi yang
-												diperlukan yaitu <br>
-												a. alat kerja dan satuannya; <br>
-												b. Jabatan yang diperlukan untuk pengoperasian alat
-												kerja; <br>
-												c. jumlah alat kerja yang dioperasikan; dan <br>
-												d. rasio jumlah pegawai per jabatan per alat kerja <br>
-												<a href="" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#subtab2" style="cursor: pointer">berikut</a>
+										<div class="col-lg-12 details order-2 order-lg-1">
+											<h3>Norma Waktu</h3>
+											<p class="fst-italic m-4" style="text-align: left">
+												Norma waktu merupakan waktu yang dipergunakan untuk
+												menghasilkan atau menyelesaikan produk atau hasil
+												kerja. <br>
+												Norma waktu
+												bersifat tetap dan merupakan variabel tetap dalam
+												pelaksanaan Analisis Beban Kerja <br>
+												Norma waktu 
+												ditetapkan dalam standar waktu kerja atau standar
+												kemampuan rata rata yang dapat diukur berdasarkan
+												jumlah produk yang dihasilkan dalam jangka waktu
+												tertentu yang dibutuhkan untuk menghasilkan setiap
+												produk. <br>
+												Norma waktu
+												merupakan standar kemampuan rata rata yang
+												dipengaruhi oleh faktor sebagai berikut <br>
+												a. perubahan kebijakan <br>
+												b. perangkat kerja <br>
+												c. prosedur kerja ; dan <br>
+												d. kompetensi Pemangku Jabatan <br>
 											</p>
 										</div>
-										<div class="col-lg-4 text-center order-1 order-lg-2">
-											<img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
-										</div>
+											
 									</div>
 								</div>
 								<div class="tab-pane" id="tabaspek-4">
 									<div class="row gy-4">
 										<div class="col-lg-8 details order-2 order-lg-1">
-											<h3>Tugas Per Jabatan</h3>
+											<h3>Waktu Kerja Efektif</h3>
 											<p class="fst-italic m-4" style="text-align: justify">
-												Analisis Beban Kerja dengan menggunakan pendekatan
-												peralatan kerja dilaksanakan untuk Jabatan yang hasil
-												kerja dan objek kerjanya beragam atau banyak jenisnya.<br>
-												Dalam menggunakan pendekatan tugas per tugas Jabatan
-												sebagaimana dimaksud, informasi yang
-												diperlukan yaitu <br>
-												a. uraian tugas; <br>
-												b. jumlah beban untuk setiap tugas; <br>
-												c. waktu penyelesaian rata rata untuk setiap beban;
-												dan <br>
-												d. jumlah jam kerja efektif. <br>
+												Waktu kerja efektif merupakan waktu yang secara efektif
+												digunakan untuk melaksanakan tugas Jabatan, yang
+												terdiri atas hari kerja efektif dan jam kerja efektif pada
+												Instansi Pemerintah sesuai dengan ketentuan peraturan
+												perundang undangan. <br>
+												Hari kerja efektif pada Instansi Pemerintah sebagaimana
+												merupakan hari kerja yang
+												digunakan P egawai ASN untuk melaksanakan tugas
+												selama satu tahun setelah dikurangi hari libur , cuti
+												bersama dan cuti tahunan sesuai dengan ketentuan
+												peraturan perundang undangan. <br>
+												Jam kerja efektif pada Instansi Pemerintah 
+												selama satu tahun yaitu jam kerja
+												Instansi Pemerintah selama hari kerja efektif 
+												dikurangi waktu yang hilang karena
+												tidak dapat melaksanakan tugas pada jam kerja. <br>
+												Persentase waktu yang hilang
+												yang diizinkan bagi Pegawai ASN yaitu sebesar 30
+												(tiga puluh) persen dari jam kerja Pegawai ASN sesuai dengan
+												ketentuan peraturan perundang undangan. <br>
+												
 											</p>
 										</div>
 										<div class="col-lg-4 text-center order-1 order-lg-2">
-											<img src="assets/img/departments-4.jpg" alt="" class="img-fluid">
+											<img src="assets/img/departments-3.jpg" alt="" class="img-fluid">
 										</div>
 									</div>
 								</div>
@@ -357,24 +300,24 @@
 						<div class="col-lg-3">
 							<ul class="nav nav-tabs flex-column" style="text-align: left">
 								<li class="nav-item">
-									<a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Persiapan</a>
+									<a class="nav-link active show" data-bs-toggle="tab" href="#tabtahap-1">Persiapan</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-2">pengumpulan data dan informasi jumlah beban kerja
+									<a class="nav-link" data-bs-toggle="tab" href="#tabtahap-2">pengumpulan data dan informasi jumlah beban kerja
 										dan waktu penyelesaian setiap uraian tugas</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-3">Pengolahan Data</a>
+									<a class="nav-link" data-bs-toggle="tab" href="#tabtahap-3">Pengolahan Data</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-4">verifikasi dan validasi hasil penghitungan kebutuhan
+									<a class="nav-link" data-bs-toggle="tab" href="#tabtahap-4">verifikasi dan validasi hasil penghitungan kebutuhan
 										pegawai.</a>
 								</li>
 							</ul>
 						</div>
 						<div class="col-lg-9">
 							<div class="tab-content">
-								<div class="tab-pane active show" id="tab-1">
+								<div class="tab-pane active show" id="tabtahap-1">
 									<div class="row gy-4">
 										<div class="col-lg-12 details order-2 order-lg-1">
 											<h3>Hasil Kerja</h3>
@@ -417,7 +360,7 @@
 										
 									</div>
 								</div>
-								<div class="tab-pane" id="tab-2">
+								<div class="tab-pane" id="tabtahap-2">
 									<div class="row gy-4">
 										<div class="col-lg-12 details order-2 order-lg-1">
 											<h3>Objek Kerja</h3>
@@ -462,7 +405,7 @@
 											</div>
 									</div>
 								</div>
-								<div class="tab-pane" id="tab-3">
+								<div class="tab-pane" id="tabtahap-3">
 									<div class="row gy-4">
 										<div class="col-lg-8 details order-2 order-lg-1">
 											<h3>Peralatan Kerja</h3>
@@ -486,7 +429,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="tab-pane" id="tab-4">
+								<div class="tab-pane" id="tabtahap-4">
 									<div class="row gy-4">
 										<div class="col-lg-8 details order-2 order-lg-1">
 											<h3>Tugas Per Jabatan</h3>
