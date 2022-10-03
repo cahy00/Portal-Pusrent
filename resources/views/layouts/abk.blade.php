@@ -35,7 +35,7 @@
 				<div id="home" class="tab-pane fade in active">
 					<div class="row">
 						<div class="col-lg-3">
-							<ul class="nav nav-tabs flex-column">
+							<ul class="nav nav-tabs flex-column" style="text-align: left">
 								<li class="nav-item">
 									<a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Hasil Kerja</a>
 								</li>
@@ -195,24 +195,24 @@
 				<div id="menu1" class="tab-pane fade">
 					<div class="row">
 						<div class="col-lg-3">
-							<ul class="nav nav-tabs flex-column">
+							<ul class="nav nav-tabs flex-column" style="text-align: left">
 								<li class="nav-item">
-									<a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Uraian Tugas</a>
+									<a class="nav-link active show" data-bs-toggle="tab" href="#tabaspek-1">Uraian Tugas</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-2">Volume Kerja</a>
+									<a class="nav-link" data-bs-toggle="tab" href="#tabaspek-2">Volume Kerja</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-3">Norma Waktu</a>
+									<a class="nav-link" data-bs-toggle="tab" href="#tabaspek-3">Norma Waktu</a>
 								</li>
 								<li class="nav-item">
-									<a class="nav-link" data-bs-toggle="tab" href="#tab-4">Waktu Kerja Efektif</a>
+									<a class="nav-link" data-bs-toggle="tab" href="#tabaspek-4">Waktu Kerja Efektif</a>
 								</li>
 							</ul>
 						</div>
 						<div class="col-lg-9">
 							<div class="tab-content">
-								<div class="tab-pane active show" id="tab-1">
+								<div class="tab-pane active show" id="tabaspek-1">
 									<div class="row gy-4">
 										<div class="col-lg-12 details order-2 order-lg-1">
 											<h3>Hasil Kerja</h3>
@@ -255,7 +255,7 @@
 										
 									</div>
 								</div>
-								<div class="tab-pane" id="tab-2">
+								<div class="tab-pane" id="tabaspek-2">
 									<div class="row gy-4">
 										<div class="col-lg-12 details order-2 order-lg-1">
 											<h3>Objek Kerja</h3>
@@ -300,7 +300,7 @@
 											</div>
 									</div>
 								</div>
-								<div class="tab-pane" id="tab-3">
+								<div class="tab-pane" id="tabaspek-3">
 									<div class="row gy-4">
 										<div class="col-lg-8 details order-2 order-lg-1">
 											<h3>Peralatan Kerja</h3>
@@ -324,7 +324,7 @@
 										</div>
 									</div>
 								</div>
-								<div class="tab-pane" id="tab-4">
+								<div class="tab-pane" id="tabaspek-4">
 									<div class="row gy-4">
 										<div class="col-lg-8 details order-2 order-lg-1">
 											<h3>Tugas Per Jabatan</h3>
@@ -355,7 +355,7 @@
 				<div id="menu2" class="tab-pane fade">
 					<div class="row">
 						<div class="col-lg-3">
-							<ul class="nav nav-tabs flex-column">
+							<ul class="nav nav-tabs flex-column" style="text-align: left">
 								<li class="nav-item">
 									<a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">Persiapan</a>
 								</li>
