@@ -436,7 +436,7 @@
 							<div class="tab-content">
 								<div class="card m-2">
 									<div class="card-header">
-										Tolak Ukur
+										Kriteria Tolak Ukur
 									</div>
 									<div class="card-body">
 										{{-- <h5 class="card-title">Special title treatment</h5> --}}
@@ -446,6 +446,25 @@
 											a. valid; <br>
 											b. konsisten; dan <br>
 											c. universal <br>
+										</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="tab-content">
+								<div class="card m-2">
+									<div class="card-header">
+										Alat Ukur
+									</div>
+									<div class="card-body">
+										{{-- <h5 class="card-title">Special title treatment</h5> --}}
+										<p class="card-text" style="text-align: left">
+											Alat ukur merupakan
+											jam kerja efektif yang merupakan jam kerja yang
+											dipergunakan dalam melakukan suatu tugas untuk
+											memperoleh hasil kerja yang dapat diukur atau dihitung
+											berdasarkan bukti fisik kegiatan.
 										</p>
 									</div>
 								</div>
