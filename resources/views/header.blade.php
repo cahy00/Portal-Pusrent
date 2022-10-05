@@ -17,6 +17,8 @@
             </ul>
           </li>
           <li><a class="nav-link scrollto o" href="/portfolio">Galeri</a></li>
+          <li><a class="nav-link scrollto o" href="/team">Profil Pegawai</a></li>
+          <li><a class="nav-link scrollto o" href="#faq">FAQ</a></li>
 					
           <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#pricing">Pricing</a></li>

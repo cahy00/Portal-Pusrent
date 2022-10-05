@@ -1,3 +1,6 @@
+@extends('home')
+
+@section('main')
 <div class="container" data-aos="fade-up">
 
 	<div class="section-title">
@@ -81,4 +84,5 @@
 
 	</div>
 
-</div>
+</div>		
+@endsection

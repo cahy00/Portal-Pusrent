@@ -29,6 +29,14 @@ Route::get('/abk', function () {
 	return view('layouts.abk');
 });
 
+Route::get('/pejab', function(){
+	return view('layouts.petajab');
+});
+
+Route::get('/team', function(){
+	return view('team');
+});
+
 Route::get('/portfolio', function(){
 	return view('portfolio');
 });

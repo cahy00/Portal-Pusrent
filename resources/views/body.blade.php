@@ -23,9 +23,7 @@
 
 
     <!-- ======= Team Section ======= -->
-    <section id="team" class="team section-bg">
-      @include('team')
-    </section><!-- End Team Section -->
+    <!-- End Team Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
