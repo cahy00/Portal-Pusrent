@@ -1,8 +1,12 @@
 <div class="container" data-aos="fade-up">
 
 	<div class="section-title">
-		<h2>Frequently Asked Questions</h2>
-		<p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+		<h2>FAQ</h2>
+		<p>FAQ perencanaan kebutuhan Aparatur 
+			Sipil Negara berisikan pembahasan yang terkait dengan 
+			permasalahan-permasalahan penyusunan kebutuhan Aparatur Sipil Negara, 
+			analisis jabatan, analisis beban kerja, 
+			struktur organisasi, dan waktu penyampaian usul kebutuhan.</p>
 	</div>
 
 	<div class="faq-list">
@@ -102,28 +106,47 @@
 			</li>
 
 			<li data-aos="fade-up" data-aos-delay="400">
-				<i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-8" class="collapsed">test<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+				<i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-8" class="collapsed">Apakah setiap Instansi tetap menyampaikan hasil penyusunan kebutuhan ASN, padahal tidak akan melakukan rekrutmen Pegawai?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
 				<div id="faq-list-8" class="collapse" data-bs-parent=".faq-list">
-					<p>
-						test
+					<p style="text-align: justify">
+						Sesuai dengan amanah Undang-Undang Nomor 
+						5 Tahun 2014 tentang ASN dan Peraturan Pemerintah 
+						Nomor 11 Tahun 2017 tentang Manajemen PNS bahwa setiap Intansi 
+						Pemerintah wajib menyampaikan Penyusunan Kebutuhan Jumlah dan Jenis Jabatan 
+						selama 5 (lima) tahun yang di perinci per 1 tahun. Jadi jelas disampaikan bahwa ada 
+						atau tidaknya rekrutmen 
+						setiap instansi harus menyampaikan hasil penyusunan kebutuhan ASN kepada Menpan dan BKN
 					</p>
 				</div>
 			</li>
 
 			<li data-aos="fade-up" data-aos-delay="400">
-				<i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-9" class="collapsed">test<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+				<i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-9" class="collapsed">
+					Bagaimana cara menyusun tugas pokok untuk jabatan 
+					struktural pada penyusunan dokumen Analisis Jabatan?
+					<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
 				<div id="faq-list-9" class="collapse" data-bs-parent=".faq-list">
-					<p>
-						test
+					<p style="text-align: justify">
+						Tata cara penyusunan kebutuhan ASN berdasarkan Analisis Jabatan dan Analisis Beban Kerja 
+						telah di atur dengan Peraturan Badan Kepegawaian Negara Nomor 9 Tahun 2022. Untuk penyusunan 
+						tugas pokok Jabatan Struktural tidak secara detil dijelaskan, akan tetapi dapat disampaikan 
+						bahwa secara fungsi dan peran untuk penyusunan tugas pokok jabatan struktural terdiri dari 
+						tugas Manajerial dan Tugas teknis yang menganut pola manajemen POAC (Planning, Organizing, 
+						Actuating & Controlling) 
+						yaitu mengambarkan peran Perencanaan, pengorganisasian, Tindakan teknis dan Evaluasi.
 					</p>
 				</div>
 			</li>
 
 			<li data-aos="fade-up" data-aos-delay="400">
-				<i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-10" class="collapsed">test<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+				<i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-10" class="collapsed">Bagaimana gambaran tentang korelasi jabatan yang terdapat pada penyusunn Analisis Jabatan?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
 				<div id="faq-list-10" class="collapse" data-bs-parent=".faq-list">
-					<p>
-						test
+					<p style="text-align: justify">
+						Korelasi Jabatan dapat diartikan sebuah 
+						hubungan kerja antara Jabatan yang dianalisis dengan Jabatan lainnya 
+						terkait dengan pelaksanaan tugas secara vertikal, horizontal, dan/atau diagonal 
+						baik di dalam maupun 
+						di luar Instansi Pemerintah dalam hal melaksanakan tugas pokok Jabatan.
 					</p>
 				</div>
 			</li>
