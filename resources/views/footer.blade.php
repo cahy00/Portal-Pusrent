@@ -5,12 +5,12 @@
 		<div class="row">
 
 			<div class="col-lg-3 col-md-6 footer-contact">
-				<h3>OnePage</h3>
+				<h3>Badan Kepegawaian Negara</h3>
 				<p>
-					A108 Adam Street <br>
-					New York, NY 535022<br>
-					United States <br><br>
-					<strong>Phone:</strong> +1 5589 55488 55<br>
+					Jl. Mayjen Sutoyo No. 12 <br>
+					Jakarta Timur, 13640 <br>
+					Indonesia<br><br>
+					<strong>Phone:</strong> 021 - 8093008<br>
 					<strong>Email:</strong> info@example.com<br>
 				</p>
 			</div>
@@ -53,7 +53,7 @@
 
 	<div class="me-md-auto text-center text-md-start">
 		<div class="copyright">
-			&copy; Copyright <strong><span>OnePage</span></strong>. All Rights Reserved
+			&copy; Copyright <strong><span>Badan Kepegawaian Negara</span></strong>. All Rights Reserved
 		</div>
 		<div class="credits">
 			<!-- All the links in the footer should remain intact. -->
@@ -64,11 +64,10 @@
 		</div>
 	</div>
 	<div class="social-links text-center text-md-right pt-3 pt-md-0">
-		<a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-		<a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-		<a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-		<a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-		<a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+		<a href="https://twitter.com/BKNgoid" class="twitter"><i class="bx bxl-twitter"></i></a>
+		<a href="https://www.facebook.com/BKNgoid/" class="facebook"><i class="bx bxl-facebook"></i></a>
+		<a href="https://www.instagram.com/bkngoidofficial/" class="instagram"><i class="bx bxl-instagram"></i></a>
+		<a href="https://www.youtube.com/channel/UCBqlmOSbHwfNECbKzFHlqGg" class="google-plus"><i class="bx bxl-skype"></i></a>
 	</div>
 </div>
 </footer>
