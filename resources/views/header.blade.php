@@ -10,7 +10,7 @@
           <li><a class="nav-link scrollto active" href="#hero">Beranda</a></li>
           <li><a class="nav-link scrollto" href="#about">Profil</a></li>
           <li><a class="nav-link scrollto" href="#services">Layanan</a></li>
-          <li><a class="nav-link scrollto o" href="#portfolio">Kegiatan</a></li>
+          {{-- <li><a class="nav-link scrollto o" href="#portfolio">Kegiatan</a></li> --}}
 					<li class="dropdown"><a href="#"><span>Regulasi</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="https://jdih.bkn.go.id/">JDIH BKN</a></li>

@@ -20,7 +20,7 @@
 				<i class="bx bxl-dribbble"></i>
 			</div>
 			<h4><a href="/anjab">Penyusunan Analisis Jabatan</a></h4>
-			<p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+			<p>Tata cara Penyusunan Analisis Jabatan</p>
 		</div>
 	</div>
 
@@ -33,7 +33,7 @@
 				<i class="bx bx-file"></i>
 			</div>
 			<h4><a href="/abk">Penyusunan Analisis Beban Kerja</a></h4>
-			<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+			<p>Tata cara Penyusunan Analisis Beban Kerja</p>
 		</div>
 	</div>
 
@@ -46,7 +46,7 @@
 				<i class="bx bx-tachometer"></i>
 			</div>
 			<h4><a href="/pejab">Penyusunan Peta Jabatan</a></h4>
-			<p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+			<p>Tata cara Penyusunan Peta Jabatan</p>
 		</div>
 	</div>
 
@@ -59,7 +59,7 @@
 				<i class="bx bx-layer"></i>
 			</div>
 			<h4><a href="">Pengusulan Kebutuhan ASN</a></h4>
-			<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+			<p>Tata cara Pengusulan Kebutuhan ASN</p>
 		</div>
 	</div>
 
@@ -72,7 +72,9 @@
 				<i class="bx bx-slideshow"></i>
 			</div>
 			<h4><a href="">Penyampaian Usul Kebutuhan ASN</a></h4>
-			<p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+			<p>Tata cara Penyampaian Usul Kebutuhan ASN Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
+				Penyusunan Kebutuhan
+			</p>
 		</div>
 	</div>
 
@@ -85,7 +87,8 @@
 				<i class="bx bx-arch"></i>
 			</div>
 			<h4><a href="">Analisis Kebutuhan ASN</a></h4>
-			<p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+			<p>Analisis Kebutuhan ASN Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
+				Penyusunan Kebutuhan</p>
 		</div>
 	</div>
 
@@ -97,8 +100,9 @@
 				</svg>
 				<i class="bx bx-windows"></i>
 			</div>
-			<h4><a href="">Analisis Kebutuhan ASN</a></h4>
-			<p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+			<h4><a href="">Pertimbangan Teknis</a></h4>
+			<p>Tata cara penyusunan Pertimbangan Teknis Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
+				Penyusunan Kebutuhan</p>
 		</div>
 	</div>
 
