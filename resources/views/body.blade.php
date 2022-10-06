@@ -23,7 +23,8 @@
 
 
     <!-- ======= Team Section ======= -->
-    <!-- End Team Section -->
+    
+		<!-- End Team Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
