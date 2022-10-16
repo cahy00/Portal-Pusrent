@@ -19,9 +19,10 @@
 				</svg>
 				<i class="bx bxl-dribbble"></i>
 			</div>
-			<h4><a href="/anjab">Penyusunan Analisis Jabatan</a></h4>
-			<p>Tata cara Penyusunan Analisis Jabatan Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
-				Penyusunan Kebutuhan</p>
+			<h4><a href="/anjab">Perencanaan Kebutuhan ASN</a></h4>
+			<p>Dalam menyusun usul kebutuhan pegawai untuk memenuhi kebutuhan
+				formasi, Instansi Pusat dan Instansi Daerah dapat melalui tahapan sebagai
+				berikut:</p>
 		</div>
 	</div>
 
@@ -33,9 +34,10 @@
 				</svg>
 				<i class="bx bx-file"></i>
 			</div>
-			<h4><a href="/abk">Penyusunan Analisis Beban Kerja</a></h4>
-			<p>Tata cara Penyusunan Analisis Beban Kerja Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
-				Penyusunan Kebutuhan</p>
+			<h4><a href="/abk">Pengolahan Data Usul Kebutuhan ASN</a></h4>
+			<p>Setiap Instansi Pemerintah wajib melaksanakan peremajaan data
+				pegawai pada Sistem Informasi ASN Badan Kepegawaian Negara dan
+				menggunakan data tersebut sebagai dasar penyusunan kebutuhan ASN.</p>
 		</div>
 	</div>
 
@@ -47,9 +49,9 @@
 				</svg>
 				<i class="bx bx-tachometer"></i>
 			</div>
-			<h4><a href="/pejab">Penyusunan Peta Jabatan</a></h4>
-			<p>Tata cara Penyusunan Peta Jabatan Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
-				Penyusunan Kebutuhan</p>
+			<h4><a href="/pejab">Pertimbangan Teknis Secara Nasional</a></h4>
+			<p>Penyusunan rumusan pertimbangan teknis kebutuhan ASN secara Nasional
+				didasarkan pada data usul yang sudah di lakukan Validasi dan Verifikasi</p>
 		</div>
 	</div>
 
@@ -61,9 +63,10 @@
 				</svg>
 				<i class="bx bx-layer"></i>
 			</div>
-			<h4><a href="">Pengusulan Kebutuhan ASN</a></h4>
-			<p>Tata cara Pengusulan Kebutuhan ASN Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
-				Penyusunan Kebutuhan</p>
+			<h4><a href="/agenda">Agenda Pelayanan</a></h4>
+			<p>Jangka waktu yang diperlukan dalam kegiatan pelayanan oleh Pusat
+				Perencanaan Kebutuhan ASN didasarkan pada kalender perencanaan kebutuhan yang
+				telah tersedia.</p>
 		</div>
 	</div>
 
@@ -75,8 +78,8 @@
 				</svg>
 				<i class="bx bx-slideshow"></i>
 			</div>
-			<h4><a href="">Penyampaian Usul Kebutuhan ASN</a></h4>
-			<p>Tata cara Penyampaian Usul Kebutuhan ASN Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
+			<h4><a href="/tahapan">Tahapan Penyusunan Kebutuhan ASN</a></h4>
+			<p>Tata cara Penyusunan Kebutuhan ASN Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
 				Penyusunan Kebutuhan
 			</p>
 		</div>
@@ -92,20 +95,6 @@
 			</div>
 			<h4><a href="">Analisis Kebutuhan ASN</a></h4>
 			<p>Analisis Kebutuhan ASN Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
-				Penyusunan Kebutuhan</p>
-		</div>
-	</div>
-
-	<div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4" data-aos="zoom-in" data-aos-delay="300">
-		<div class="icon-box iconbox-teal">
-			<div class="icon">
-				<svg width="100" height="100" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
-					<path stroke="none" stroke-width="0" fill="#f5f5f5" d="M300,566.797414625762C385.7384707136149,576.1784315230908,478.7894351017131,552.8928747891023,531.9192734346935,484.94944893311C584.6109503024035,417.5663521118492,582.489472248146,322.67544863468447,553.9536738515405,242.03673114598146C529.1557734026468,171.96086150256528,465.24506316201064,127.66468636344209,395.9583748389544,100.7403814666027C334.2173773831606,76.7482773500951,269.4350130405921,84.62216499799875,207.1952322260088,107.2889140133804C132.92018162631612,134.33871894543012,41.79353780512637,160.00259165414826,22.644507872594943,236.69541883565114C3.319112789854554,314.0945973066697,72.72355303640163,379.243833228382,124.04198916343866,440.3218312028393C172.9286146004772,498.5055451809895,224.45579914871206,558.5317968840102,300,566.797414625762"></path>
-				</svg>
-				<i class="bx bx-windows"></i>
-			</div>
-			<h4><a href="">Pertimbangan Teknis</a></h4>
-			<p>Tata cara penyusunan Pertimbangan Teknis Berdasarakan Peraturan BKN No 9 Tahun 2022 Tentang Tata Cara 
 				Penyusunan Kebutuhan</p>
 		</div>
 	</div>

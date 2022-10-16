@@ -14,7 +14,12 @@
     <!-- ======= About Video Section ======= -->
     <section id="about-video" class="about-video">
       @include('about-video')
-    </section><!-- End About Video Section -->
+    </section>
+		<!-- End About Video Section -->
+
+		<section id="projection" class="projection">
+      @include('Projection')
+    </section>
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services section-bg">
@@ -23,7 +28,8 @@
 
 
     <!-- ======= Team Section ======= -->
-    
+    <link rel="stylesheet" href="https://datastudio.google.com/s/lVyuErWjaew">
+		<a href="https://datastudio.google.com/s/lVyuErWjaew"></a>
 		<!-- End Team Section -->
 
     <!-- ======= Frequently Asked Questions Section ======= -->

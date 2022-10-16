@@ -37,6 +37,18 @@ Route::get('/team', function(){
 	return view('team');
 });
 
+Route::get('/act', function(){
+	return view('act');
+});
+
+Route::get('/agenda', function(){
+	return view('agenda');
+});
+
+Route::get('/tahapan', function(){
+	return view('tahapan');
+});
+
 Route::get('/portfolio', function(){
 	return view('portfolio');
 });
