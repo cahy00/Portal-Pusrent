@@ -49,6 +49,10 @@ Route::get('/pertek', function(){
 	return view('pertek');
 });
 
+Route::get('/servicedetail', function(){
+	return view('detail_service');
+});
+
 Route::get('/pengolahan', function(){
 	return view('pengolahan');
 });

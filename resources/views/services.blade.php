@@ -19,7 +19,7 @@
 				</svg>
 				<i class="bx bxl-dribbble"></i>
 			</div>
-			<h4><a href="/anjab">Perencanaan Kebutuhan ASN</a></h4>
+			<h4><a href="/servicedetail">Perencanaan Kebutuhan ASN</a></h4>
 			<p>Dalam menyusun usul kebutuhan pegawai untuk memenuhi kebutuhan
 				formasi, Instansi Pusat dan Instansi Daerah dapat melalui tahapan sebagai
 				berikut:</p>
