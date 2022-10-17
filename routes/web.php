@@ -45,6 +45,14 @@ Route::get('/agenda', function(){
 	return view('agenda');
 });
 
+Route::get('/pertek', function(){
+	return view('pertek');
+});
+
+Route::get('/pengolahan', function(){
+	return view('pengolahan');
+});
+
 Route::get('/tahapan', function(){
 	return view('tahapan');
 });

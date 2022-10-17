@@ -34,7 +34,7 @@
 				</svg>
 				<i class="bx bx-file"></i>
 			</div>
-			<h4><a href="/abk">Pengolahan Data Usul Kebutuhan ASN</a></h4>
+			<h4><a href="/pengolahan">Pengolahan Data Usul Kebutuhan ASN</a></h4>
 			<p>Setiap Instansi Pemerintah wajib melaksanakan peremajaan data
 				pegawai pada Sistem Informasi ASN Badan Kepegawaian Negara dan
 				menggunakan data tersebut sebagai dasar penyusunan kebutuhan ASN.</p>
@@ -49,7 +49,7 @@
 				</svg>
 				<i class="bx bx-tachometer"></i>
 			</div>
-			<h4><a href="/pejab">Pertimbangan Teknis Secara Nasional</a></h4>
+			<h4><a href="/pertek">Pertimbangan Teknis Secara Nasional</a></h4>
 			<p>Penyusunan rumusan pertimbangan teknis kebutuhan ASN secara Nasional
 				didasarkan pada data usul yang sudah di lakukan Validasi dan Verifikasi</p>
 		</div>
