@@ -12,7 +12,7 @@
 					</p>
 				</div>
 				{{-- <h3 class="section-title">Instansi Pusat</h3> --}}
-				<img src="{{asset('bkn/4.jpg')}}" class="img-fluid" style="display: block; margin:auto;" alt="">
+				<img src="{{asset('bkn/4.jpg')}}" class="img-fluid" style="display: block; margin:auto;" width="100px" height="auto" alt="">
 			</div>
 
 
