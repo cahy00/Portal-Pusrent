@@ -26,7 +26,7 @@
 					<li><i class="ri-check-double-line"></i> analisis kebutuhan</li>
 					<li><i class="ri-check-double-line"></i> pertimbangan teknis kebutuhan Aparatur Sipil Negara</li>
 				</ul>
-				<a href="#" class="btn-learn-more">Learn More</a>
+				{{-- <a href="#" class="btn-learn-more">Learn More</a> --}}
 			</div>
 		</div>
 

@@ -10,24 +10,30 @@
 		<div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="200">
 			<div class="icon-box">
 				<div class="icon"><i class="ri-stack-line"></i></div>
-				<h4 class="title"><a href="">Pengelolaan Data</a></h4>
-				<p class="description">Koordinasi Pelaksanaan pengelolaan data & evaluasi kebutuhan Aparatur Sipil Negara</p>
+				<h4 class="title"><a href="">Pembinaan dan Fasilitasi Perencanaan Kebutuhan ASN</a></h4>
+				<p class="description">Instansi pemerintah pusat maupun daerah yang telah menyusun Analisis
+					Jabatan dan Analisis Beban Kerja difasilitasi oleh Pusat Perencanaan
+					Kebutuhan ASN untuk melakukan verifikasi dan validasi untuk kemudian
+					ditetapkan sebagai kebutuhan jumlah dan jenis jabatan</p>
 			</div>
 		</div>
 
 		<div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="300">
 			<div class="icon-box">
 				<div class="icon"><i class="ri-printer-line"></i></div>
-				<h4 class="title"><a href="">Analisis Kebutuhan</a></h4>
-				<p class="description">Koordinasi Penyusunan analisis kebutuhan Aparatur Sipil Negara</p>
+				<h4 class="title"><a href="">Pengolahan Data dan Evaluasi Pengusulan Kebutuhan ASN</a></h4>
+				<p class="description">Instansi pemerintah pusat maupun daerah difasilitasi adanya verifikasi dan
+					validasi oleh Pusat Perencanaan Kebutuhan ASN dalam pengolahan data
+					pengusulan kebutuhan ASN</p>
 			</div>
 		</div>
 
 		<div class="col-md-6 col-lg-3 d-flex align-items-stretch mb-5 mb-lg-0" data-aos="zoom-in" data-aos-delay="400">
 			<div class="icon-box">
 				<div class="icon"><i class="ri-album-line"></i></div>
-				<h4 class="title"><a href="">Pertimbangan Teknis</a></h4>
-				<p class="description">Koordinasi penyusunan bahan pertimbangan teknis kebutuhan Aparatur Sipil Negara</p>
+				<h4 class="title"><a href="">Penyusunan Pertimbangan Teknis Kebutuhan ASN</a></h4>
+				<p class="description">Penyusunan Pertimbangan Teknis Kebutuhan ASN adalah analisis jumlah,
+					jenis jabatan, kualifikasi pendidikan dan/atau penempatan ASN yang dipertimbangkan sebagai kebutuhan pegawai bagi Instansi Pemerintah</p>
 			</div>
 		</div>
 
