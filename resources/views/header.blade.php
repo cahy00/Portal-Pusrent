@@ -14,10 +14,10 @@
           {{-- <li><a class="nav-link scrollto o" href="#portfolio">Kegiatan</a></li> --}}
 					<li class="dropdown"><a href="#"><span>Regulasi</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="https://jdih.bkn.go.id/">JDIH BKN</a></li>
+              <li><a href="https://jdih.bkn.go.id/" target="_blank">JDIH BKN</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto o" href="/portfolio">Galeri</a></li>
+          {{-- <li><a class="nav-link scrollto o" href="/portfolio">Galeri</a></li> --}}
           <li><a class="nav-link scrollto o" href="/team">Profil Pegawai</a></li>
           <li><a class="nav-link scrollto o" href="#faq">FAQ</a></li>
 					
